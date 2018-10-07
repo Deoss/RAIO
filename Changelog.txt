@@ -1,0 +1,4 @@
+RAIO will now look for Skins specified inside 'Data/OGSkins.txt' and classify the account as Valuable
+     |___ Also saved inside a folder named by the OG Skin that was found
+     |___ Output in Console with different Color so you notice it ;D
+     |___ Updated SkinDB to support latest Patch's Skins!
